@@ -1,4 +1,6 @@
 function aceptar() {
+    document.getElementById("mensaje").innerHTML = "TE AMO 💖";
+    
     document.getElementById("gif").style.display = "block";
 }
 
